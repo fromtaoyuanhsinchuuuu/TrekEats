@@ -1,0 +1,22 @@
+# OpenAI API
+openai>=1.3.0
+
+# 環境變量管理
+python-dotenv>=1.0.0
+
+# 圖像處理
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# OCR
+pytesseract>=0.3.10
+
+# 測試
+pytest>=7.4.0
+
+# Web 框架 (如果需要)
+flask>=2.0.0
+
+# 其他工具
+requests>=2.31.0
